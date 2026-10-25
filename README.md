@@ -9,5 +9,6 @@ Full sources for every video on the YouTube channel **Actually, No**. Each video
 | 3 | How big is a trillion? | [a-trillion.md](a-trillion.md) |
 | 4 | Wet hair, cold? | [wet-hair.md](wet-hair.md) |
 | 5 | Shamonda: the first documented human case | [shamonda.md](shamonda.md) |
+| 6 | The five-second rule | [five-second-rule.md](five-second-rule.md) |
 
 Health topics use "may" and "linked to" wording; nothing here is medical advice.
