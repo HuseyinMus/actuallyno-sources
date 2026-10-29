@@ -12,5 +12,6 @@ Full sources for every video on the YouTube channel **Actually, No**. Each video
 | 6 | The five-second rule | [five-second-rule.md](five-second-rule.md) |
 | 7 | Does sugar make kids hyper? | [sugar-hyperactivity.md](sugar-hyperactivity.md) |
 | 8 | Which energy source is deadliest? | [nuclear-safety.md](nuclear-safety.md) |
+| 9 | Does vitamin C stop colds? | [vitamin-c-colds.md](vitamin-c-colds.md) |
 
 Health topics use "may" and "linked to" wording; nothing here is medical advice.
