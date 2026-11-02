@@ -28,3 +28,9 @@ Sources for the *Actually, No* Short on the saying "lightning never strikes the 
 - **Hook (used):** "You think lightning never strikes twice? Guinness says it hit this man 7 times. But why isn't he the worst case?" The "worst case" loop closes at the reveal of the building that NWS says is hit about 23 times a year (section 2). That is more strikes on one place every year than Guinness counts for one person in 35 years.
 - **"A watchtower. His truck. His garden. A boat."**: from the Guinness news article, which describes the strikes while fleeing a watchtower, driving his truck, in his garden and on a fishing boat.
 - **"lightning loves tall, pointy, isolated things"**: NWS ("especially if it's a tall, pointy, isolated object").
+
+## Thumbnails and title (checked 2026-11-02)
+- **Title:** "Struck by Lightning 7 Times, and Not the Worst Case" (sections 1 and 2). Linted with yt-package: 94 alone, and 98 with v1 and v3.
+- **v1 "NEVER TWICE? NOPE."**, subline "7 strikes on one park ranger · Guinness". Section 1.
+- **v2 "23 HITS A YEAR"**, subline "one tower · National Weather Service". Section 2 (NWS: "an average of 23 times a year").
+- **v3 "SAME SPOT AGAIN?"**, subline "tall, pointy things get hit over and over". Section 2. It is a question, not a claim.
