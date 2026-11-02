@@ -23,3 +23,8 @@ Sources for the *Actually, No* Short on shaving and regrowth. Each claim is list
   - **Colour:** "the new hair has not yet been lightened by the sun or other chemical exposures, resulting in an appearance that seems darker than existing hair."
 - **Check:** the brief says shaving doesn't change "thickness, color or growth rate". The sources directly back **thickness (width) and growth rate** (Lynfield 1970, BMJ). For **colour**, the review explains why new hair *looks* darker, so the film says "looks darker: it hasn't been sun-faded yet", not "colour measured unchanged".
 - **On screen:** `Vreeman & Carroll, BMJ 2007`
+
+## Hook, thumbnails and title
+- **Hook:** "Scientists tested it in 1928 and 1970": see sections 1 and 2.
+- **Thumbnails:** "SHAVE = THICKER? NOPE." · "IT'S THE TIP" (section 3) · "TESTED IN 1970" (section 2). The only number shown, 1970, is the year of the leg study.
+- **Title:** "Does Shaving Make Hair Grow Back Thicker? They Tested It".
