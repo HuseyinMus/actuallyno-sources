@@ -16,6 +16,7 @@ Full sources for every video on the YouTube channel **Actually, No**. Each video
 | 10 | Do you swallow spiders in your sleep? | [spiders-in-sleep.md](spiders-in-sleep.md) |
 | 11 | Lightning never strikes twice? | [lightning-twice.md](lightning-twice.md) |
 | 12 | Shaving makes hair grow back thicker? | [shaving-thicker.md](shaving-thicker.md) |
+| 13 | Do you lose most of your heat through your head? | [head-heat-loss.md](head-heat-loss.md) |
 
 Turkish channel **Yanlış Biliyorsun**: see [tr/README.md](tr/README.md).
 
