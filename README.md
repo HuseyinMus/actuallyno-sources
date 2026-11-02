@@ -14,6 +14,7 @@ Full sources for every video on the YouTube channel **Actually, No**. Each video
 | 8 | Which energy source is deadliest? | [nuclear-safety.md](nuclear-safety.md) |
 | 9 | Does vitamin C stop colds? | [vitamin-c-colds.md](vitamin-c-colds.md) |
 | 10 | Do you swallow spiders in your sleep? | [spiders-in-sleep.md](spiders-in-sleep.md) |
+| 11 | Lightning never strikes twice? | [lightning-twice.md](lightning-twice.md) |
 
 Turkish channel **Yanlış Biliyorsun**: see [tr/README.md](tr/README.md).
 
