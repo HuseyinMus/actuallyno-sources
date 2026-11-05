@@ -39,6 +39,11 @@ Sources for the *Actually, No* Short on knuckle cracking. This is the English ad
 
 ## Hook, narration and on-screen numbers
 - **Hook:** "Before you crack your knuckles again: one doctor tested it on himself for over fifty years. Left hand only. Why?" "One doctor", "over fifty years" and "left hand only" are from section 1 (Ig Nobel citation; secondary accounts of the 1998 letter). The hook makes no health claim; the cost it hints at is the grip and swelling link in section 3.
-- **Narration:** "He reported no arthritis in either one. But that's one man." (section 1) · "215 hand X-rays. Crackers didn't have more arthritis." (section 2) · "a gas cavity forming in the joint. Not a bubble bursting." (section 4) · "a 1990 study linked the habit to swollen hands and a weaker grip. Arthritis? Probably not. Grip? Maybe." (section 3)
+- **Narration:** "He reported no arthritis in either one. But that's one man." (section 1) · "215 hand X-rays. Crackers didn't have more arthritis." (section 2) · "Real-time MRI caught a gas cavity forming in the joint. Not a bubble bursting." (section 4) · "a 1990 study linked the habit to swollen hands and a weaker grip. Arthritis? Probably not. Your grip? Maybe." (section 3)
 - **Numbers on screen:** 50+ years (1), 215 people (2), 18.1% vs 21.5% (2), 300 patients (3), 1990, 2011, 2015 and 1998 (the citations).
+- **On-screen extras:** "gap not significant (P = .548)" (2), "hand X-rays, age 50–89" (2), "300 patients, age 45+ · a link, not a cause" (3), "cavity forms · gas in the fluid" and "real-time MRI" (4).
 - **Health wording:** "linked to", "may", "probably". Nothing here is medical advice.
+
+## Thumbnails and title
+- **Thumbnails:** "CRACKING = ARTHRITIS? PROBABLY NOT." (the film's verdict, sections 2–3) · "50+ YEARS, ONE HAND" with "cracked" / "never" (section 1) · "IT'S NOT A BUBBLE", "the pop = a cavity forming" (section 4).
+- **Title:** "Does Cracking Your Knuckles Cause Arthritis?", which asks about the belief and makes no claim.
