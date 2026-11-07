@@ -25,6 +25,7 @@ Sources for the first *Why not just...?* Short on the *Actually, No* channel. Ea
 - **Drains:** para. 3-3d(1)(c): "Uplift pressures at the base or below the foundation can be reduced by installing foundation drains." Their effectiveness "will be assumed to vary from 25 to 50 percent" in design (up to 67% with testing and approval). The grout zone "should be supplemented by foundation drain holes".
 - **Together:** ASDSO (lesson above): "a grout curtain positioned upstream of a drain curtain within the dam's base can also facilitate the reduction of uplift pressures by eliminating or decreasing the number of seepage paths."
 - **Shape:** the film draws the classic gravity-dam wedge (wide base, narrow top), the cross-section the manual designs.
+- **Pressure grows with depth** (re-cut, read 2026-11-07): EM 1110-2-2200, para. 3-3b(2)(a): "The hydrostatic pressure against the dam is a function of the water depth times the unit weight of water." So the push is greatest at the bottom, which is why the film says the wedge is "widest at the bottom, where water pushes hardest." The film does not claim this is the only reason for the shape.
 - **Arch dams: NOT in the film.** The claim that an arch dam carries load "by arch action into the valley walls" is in USACE EM 1110-2-2201 (*Arch Dam Design*), but every copy we tried was blocked (HTTP 403), so we could not read it ourselves. The film leaves arch dams out.
 - **Wording in the film:** "Dig to solid rock. Inject grout to seal the cracks. Then drill drains, so the water that still gets through can escape, instead of lifting the dam."
 - **On screen:** `USACE EM 1110-2-2200` and the label words `GROUT` and `DRAINS`.
@@ -46,3 +47,16 @@ Sources for the first *Why not just...?* Short on the *Actually, No* channel. Ea
 - **Labels:** `JUST POUR CONCRETE?` · `UPLIFT` · `GROUT + DRAINS`. No numbers on screen other than 1976 and 11 (section 4).
 - **Thumbnails:** "JUST POUR CONCRETE?" (the hook) · "WHY NOT A WALL?" (the series question) · "WATER FINDS A WAY" (sections 1–2: seepage and uplift exist under every dam). No numbers.
 - **Title:** "Why Not Just Pour a Concrete Wall Across a River?", a question that makes no claim.
+
+## Re-cut narration (~50 s, 2026-11-07)
+The 31.6 s cut was re-cut to tell the full story, with 3 re-hooks. Lines and their sections:
+- "Before you build a dam, try the easy way: one concrete wall across the river. What could possibly go wrong?" (hook, no claim)
+- "It slips under the wall and carries the mud away. Now there's a hole under your dam." (section 1: seepage and piping)
+- "Okay, make it thicker? It gets worse." (re-hook)
+- "Water gets under the whole base and pushes up. Your wall gets lighter, and it slides." (section 2: uplift over 100% of the base reduces N in the sliding check)
+- "So, engineers did something weird. They dug down first." (re-hook)
+- "To solid rock. Then a wedge, widest at the bottom, where water pushes hardest." (section 3: rock foundation; pressure grows with depth)
+- "Problem: rock has cracks. So they fill them with grout." (section 3: grout curtain, "holes filled with grout under pressure", oriented "to intercept the maximum number of rock fractures")
+- "Here's the clever part: some water still gets through. So drains let it out, before it can lift the dam." (re-hook + section 3: drains reduce uplift)
+- "Idaho's Teton Dam, 1976: water found cracked rock under its seal and washed out its core. Eleven people died. Investigators said it needed a way to make that leakage harmless." (section 4: panel, "the design should have provided measures to render the inevitable leakage harmless"; 11 deaths per USBR)
+- CTA A + "Still think it's easy?"
