@@ -39,3 +39,10 @@ Sources for the first *Why not just...?* Short on the *Actually, No* channel. Ea
 - **Tone:** named respectfully, no flood imagery, no people drawn, no jokes in this scene.
 - **Wording in the film:** "In 1976, Idaho's Teton Dam failed: water eroded a path through cracked rock under it. Eleven people died. Investigators said the dam needed a way to make the leakage harmless."
 - **On screen:** `Independent Panel 1976 · USBR`
+
+## Hook, narration and on-screen text (final, 2026-11-07)
+- **Hook (A):** "Before you build a dam, try the easy way: one concrete wall across the river. What could possibly go wrong?" It states the naive idea and makes no claim.
+- **Narration:** "Water slips under it, and takes the mud with it." (section 1) · "Okay, make it thicker? Now water pushes up on the whole base, and it slides." (section 2) · "Real dams start on solid rock. Grout seals the cracks. Drains let the leftover water out." (section 3) · "Idaho's Teton Dam, 1976: water found cracked rock under its seal, and washed out its core. Eleven people died." (section 4: "openings existed through inadequately sealed rock joints", "internal erosion (piping) of the core"; 11 deaths per USBR).
+- **Labels:** `JUST POUR CONCRETE?` · `UPLIFT` · `GROUT + DRAINS`. No numbers on screen other than 1976 and 11 (section 4).
+- **Thumbnails:** "JUST POUR CONCRETE?" (the hook) · "WHY NOT A WALL?" (the series question) · "WATER FINDS A WAY" (sections 1–2: seepage and uplift exist under every dam). No numbers.
+- **Title:** "Why Not Just Pour a Concrete Wall Across a River?", a question that makes no claim.
