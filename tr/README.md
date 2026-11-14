@@ -6,9 +6,9 @@ Türkçe YouTube Shorts kanalı **Yanlış Biliyorsun** için tüm kaynaklar. He
 |---|---|---|
 | 1 | Parmak çıtlatmak romatizma yapar mı? | [parmak-citlatma.md](parmak-citlatma.md) |
 
-## Aslında Hayır
+## Meraklı Kedi
 
-Türkçe YouTube Shorts kanalı **Aslında Hayır** ("Herkesin bildiği, aslında öyle değil."): kısa bilim, tarih ve mühendislik açıklamaları.
+Türkçe YouTube Shorts kanalı **Meraklı Kedi** (@merakli.kedi, "Merak kediyi öldürmez, bilgilendirir."): kısa bilim, tarih ve mühendislik açıklamaları.
 
 | # | Video | Kaynaklar |
 |---|---|---|

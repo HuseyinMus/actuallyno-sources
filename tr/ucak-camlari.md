@@ -1,6 +1,6 @@
-# Video 1 (Aslında Hayır): Uçak camları neden kare değil?
+# Video 1 (Meraklı Kedi): Uçak camları neden kare değil?
 
-"Aslında Hayır" kanalının uçak camları videosunun kaynakları. İngilizce *Actually, No* kanalının aynı konudaki videosunun kaynak dosyasına dayanır ([why-not-just-square-windows.md](../why-not-just-square-windows.md)); orada okunan birincil kaynaklar burada Türkçe özetlenmiş, orijinal (İngilizce) ifadeler korunmuştur. Kontrol tarihi: 14.11.2026.
+"Meraklı Kedi" kanalının uçak camları videosunun kaynakları. İngilizce *Actually, No* kanalının aynı konudaki videosunun kaynak dosyasına dayanır ([why-not-just-square-windows.md](../why-not-just-square-windows.md)); orada okunan birincil kaynaklar burada Türkçe özetlenmiş, orijinal (İngilizce) ifadeler korunmuştur. Kontrol tarihi: 14.11.2026.
 
 **Ana birincil kaynak:** Ministry of Transport and Civil Aviation, *Civil Aircraft Accident: Report of the Court of Inquiry into the Accidents to Comet G-ALYP on 10th January, 1954, and Comet G-ALYY on 8th April, 1954* (C.A.P. 127, HMSO, 1955; 1 Şubat 1955 tarihli). Aviation Safety Network'ün barındırdığı taranmış kopya (asn.flightsafety.org/reports/1954/19540408_COMT_G-ALYY.pdf). Paragraf numaraları raporun kendi numaralarıdır (G-ALYP raporu).
 
