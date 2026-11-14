@@ -13,5 +13,6 @@ Türkçe YouTube Shorts kanalı **Meraklı Kedi** (@merakli.kedi, "Merak kediyi 
 | # | Video | Kaynaklar |
 |---|---|---|
 | 1 | Uçak camları neden kare değil? | [ucak-camlari.md](ucak-camlari.md) |
+| 2 | Panama Kanalı sadece bir hendek mi? | [panama-kanali.md](panama-kanali.md) |
 
 Sağlık konularında "-ebilir" ve "ile bağlantılı" ifadeleri kullanılır; buradaki hiçbir şey tıbbi tavsiye değildir.
