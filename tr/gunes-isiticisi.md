@@ -29,7 +29,7 @@
   - "nearly 1,400 MW (equivalent to 2 million m²) of solar thermal collectors were installed across Türkiye in 2024, the vast majority of which were produced domestically."
 - **Videoda:** "2024'te Türkiye, yeni kurulan güneş kollektöründe dünyada üçüncüydü: yaklaşık iki milyon metrekare. Ve bunların çok büyük kısmı Türkiye'de üretiliyor." ("vast majority" → "çok büyük kısmı")
 - **Ekranda:** `IEA SHC, 2025` ve `IEA SHC: büyük çoğunluğu yurt içinde üretildi`
-- Grafikteki çubuk boyları yalnızca sıralamayı gösterir; Çin ve Brezilya'nın değerleri videoda verilmiyor.
+- Videoda sıralama bir kürsüyle gösteriliyor (1. Çin, 2. Brezilya, 3. Türkiye); basamak yükseklikleri değer değil, yalnızca sıra. Çin ve Brezilya'nın değerleri videoda verilmiyor.
 
 ## Kontrol edilip çıkarılanlar
 - "Türkiye toplam kurulu kapasitede dünyada 2." (arama özetlerinde geçiyor; IEA SHC 2025 basın metninde bu cümle bulunamadı) → kullanılmadı.
