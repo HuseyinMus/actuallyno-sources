@@ -10,7 +10,7 @@
   - "Passive systems require no pumps." Pasif ısıtıcı "operates without the need for mechanical pumps or electrical components".
 - **US DOE, Building Science Education, "Thermosiphon Solar Water Heaters"** (https://bsesc.energy.gov/energy-basics/hvac-thermosiphon-solar-water-heaters): "Water is heated in a solar collector, usually on the roof; as it heats up, it rises, exiting the collector and moving into the storage tank."
 - **Naif deneme (depo aşağıda):** sıcak su doğal olarak yükseldiği için depo kollektörün altındaysa su kendiliğinden depoya gitmez; dolaşım için pompa (aktif sistem) gerekir. Kaynak: yukarıdaki iki tanımın sonucu (pasif sistem pompasızdır çünkü depo yukarıdadır).
-- **Videoda:** "Sıcak su aşağıdaki depoya kendi kendine inmez. Pompa lazım, pompaya da elektrik." · "Hafifleyen sıcak su panelden yukarı, depoya çıkar. Depodaki soğuk, ağır su da aşağı, panele iner." · "Pompa yok, elektrik yok. Buna termosifon denir."
+- **Videoda:** "Panel suyu ısıtıyor, ama sıcak su aşağıdaki depoya kendi kendine inmez. Bunun için pompa lazım, pompaya da elektrik." · "Hafifleyen sıcak su panelden yukarı, depoya çıkar. Depodaki soğuk, ağır su da aşağı, panele iner." · "Ne pompa var, ne elektrik. Buna termosifon denir."
 - **Ekranda:** `Penn State EGEE 102 · US DOE`
 
 ## 2. Isınan su hafifler: 60 °C'de yaklaşık %2 daha hafif
@@ -27,7 +27,7 @@
 - **IEA SHC, "Türkiye's special role in the global solar thermal market"** (https://archive.iea-shc.org/article?NewsID=583, 31.08.2025):
   - Türkiye "third largest market in terms of new solar collector capacity in 2024 after China and Brazil".
   - "nearly 1,400 MW (equivalent to 2 million m²) of solar thermal collectors were installed across Türkiye in 2024, the vast majority of which were produced domestically."
-- **Videoda:** "2024'te Türkiye, yeni kurulan güneş kollektöründe dünyada üçüncüydü: yaklaşık iki milyon metrekare. Ve bunların büyük çoğunluğu Türkiye'de üretiliyor."
+- **Videoda:** "2024'te Türkiye, yeni kurulan güneş kollektöründe dünyada üçüncüydü: yaklaşık iki milyon metrekare. Ve bunların çok büyük kısmı Türkiye'de üretiliyor." ("vast majority" → "çok büyük kısmı")
 - **Ekranda:** `IEA SHC, 2025` ve `IEA SHC: büyük çoğunluğu yurt içinde üretildi`
 - Grafikteki çubuk boyları yalnızca sıralamayı gösterir; Çin ve Brezilya'nın değerleri videoda verilmiyor.
 
