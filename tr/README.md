@@ -17,5 +17,6 @@ Türkçe YouTube Shorts kanalı **Meraklı Kedi** (@merakli.kedi, "Merak kediyi 
 | 3 | Abu Simbel'in önüne neden duvar örülmedi? (ve Hasankeyf) | [abu-simbel.md](abu-simbel.md) |
 | 4 | Güneşli su ısıtıcısında depo neden panelin üstünde? | [gunes-isiticisi.md](gunes-isiticisi.md) |
 | 5 | Chicago binaları krikoyla nasıl kaldırdı? | [chicago.md](chicago.md) |
+| 6 | Marmaray: tüneli neden denize batırdılar? | [marmaray.md](marmaray.md) |
 
 Sağlık konularında "-ebilir" ve "ile bağlantılı" ifadeleri kullanılır; buradaki hiçbir şey tıbbi tavsiye değildir.
