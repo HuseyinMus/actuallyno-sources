@@ -19,5 +19,6 @@ Türkçe YouTube Shorts kanalı **Meraklı Kedi** (@merakli.kedi, "Merak kediyi 
 | 5 | Chicago binaları krikoyla nasıl kaldırdı? | [chicago.md](chicago.md) |
 | 6 | Marmaray: tüneli neden denize batırdılar? | [marmaray.md](marmaray.md) |
 | 7 | Hoover Barajı neden tek seferde dökülmedi? | [hoover.md](hoover.md) |
+| 8 | Su yetmiyorsa yeni baraj mı, yoksa boru mu? | [su-kaybi.md](su-kaybi.md) |
 
 Sağlık konularında "-ebilir" ve "ile bağlantılı" ifadeleri kullanılır; buradaki hiçbir şey tıbbi tavsiye değildir.
