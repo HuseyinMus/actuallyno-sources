@@ -21,5 +21,6 @@ Türkçe YouTube Shorts kanalı **Meraklı Kedi** (@merakli.kedi, "Merak kediyi 
 | 7 | Hoover Barajı neden tek seferde dökülmedi? | [hoover.md](hoover.md) |
 | 8 | Su yetmiyorsa yeni baraj mı, yoksa boru mu? | [su-kaybi.md](su-kaybi.md) |
 | 9 | Ben ekmek atmam ki? Günde 4,7 milyon ekmek nereye gidiyor? | [ekmek-israfi.md](ekmek-israfi.md) |
+| 10 | Deprem yönetmeliği vardı, neden yetmedi? | [deprem-yonetmelik.md](deprem-yonetmelik.md) |
 
 Sağlık konularında "-ebilir" ve "ile bağlantılı" ifadeleri kullanılır; buradaki hiçbir şey tıbbi tavsiye değildir.
